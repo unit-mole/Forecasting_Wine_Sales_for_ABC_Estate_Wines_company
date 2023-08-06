@@ -1,0 +1,5 @@
+,Test RMSE Sparkling
+2pointTrailingMovingAverage,813.4006839972983
+4pointTrailingMovingAverage,1156.589694081071
+6pointTrailingMovingAverage,1283.9274280129855
+9pointTrailingMovingAverage,1346.2783154241804
